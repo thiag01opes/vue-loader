@@ -2,7 +2,7 @@
 
 > Requer versão ^9.8.0
 
-[Módulos CSS](https://github.com/css-modules/css-modules) é um sistema popula para modularização e composição de CSS. `vue-loader` fornece integração de alto nível com módulos CSS como uma alternativa para simular escopo CSS.
+[Módulos CSS](https://github.com/css-modules/css-modules) é um sistema popular para modularização e composição de CSS. `vue-loader` fornece integração de alto nível com módulos CSS como uma alternativa para simular escopo CSS.
 
 ### Uso
 
